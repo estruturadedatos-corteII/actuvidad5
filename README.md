@@ -32,7 +32,7 @@ ListaSimple.java: El motor del programa. Contiene toda la lógica de manipulaci�
 
 Main.java: Interfaz de usuario con un menú interactivo (switch y do-while).
 
-📋 Instrucciones de Uso
+ Instrucciones de Uso
 Compilar: Asegúrate de tener instalados todos los archivos en la misma carpeta.
 
 Ejecutar: Inicia la clase Main.
@@ -43,7 +43,8 @@ Prueba la opción de Ordenar para ver cómo los nodos se reacomodan por precio.
 
 Al elegir "Guardar y Salir", se generará el archivo productos.csv en la carpeta raíz.
 
-📝 Notas de Implementación
+Notas de Implementación
 Se utilizó PrintWriter y Scanner para la gestión de archivos por su simplicidad y eficiencia.
 
 El intercambio de nodos en el ordenamiento se realiza mediante referencias, lo que demuestra un manejo avanzado de punteros en Java.
+https://drive.google.com/file/d/1siZE8_b6owOL3V6m86AKdTi8e_BTXHwr/view?usp=drive_link
